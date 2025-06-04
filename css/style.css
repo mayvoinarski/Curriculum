@@ -70,7 +70,7 @@ li {
     font-size: 0.87rem;
     font-weight: 550;
 }
-.about-me{
+.about-me, li{
     text-align: justify;
 }
 .r {
